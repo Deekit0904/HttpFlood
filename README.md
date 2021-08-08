@@ -1,4 +1,4 @@
-# HttpFlood
+# NODEJS HttpFlood
 HTTPFLOOD FOR EDUCATION ONLY!!
 
 ![Image of WeAreRAINBOWHAT](https://media.discordapp.net/attachments/854662959798943784/866682361906987018/7557de9f101215a7.gif?width=445&height=445)
