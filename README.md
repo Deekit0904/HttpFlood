@@ -10,5 +10,4 @@ INSTALLATIONS:
 3. npm install
 4. node httpflood.js
 
-HAVE FUN! 
 MADE WITH LOVE <3 BY WEARERAINBOWHAT
