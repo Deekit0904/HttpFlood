@@ -7,7 +7,6 @@ INSTALLATIONS:
 
 1. make sure you have nodejs
 2. git clone https://github.com/WeAreRainBowHAT/HttpFlood.git
-3. npm install
-4. node httpflood.js
+3. node httpflood.js
 
 MADE WITH LOVE <3 BY WEARERAINBOWHAT
